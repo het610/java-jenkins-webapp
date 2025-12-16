@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2>Hello World!</h2>
+<h2>Hello Coding World</h2>
 <a href="About.jsp">About Us</a>
 </body>
 </html>
